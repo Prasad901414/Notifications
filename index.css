@@ -1,0 +1,21 @@
+/* Write your code here. */
+* {
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+li {
+    display: flex;
+    color: #ffffff;
+    padding: 10px 0px;
+    margin: 10px 0px;
+    list-style: none;
+    width: 90%;
+}
